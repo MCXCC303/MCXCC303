@@ -1,2 +1,2 @@
 Code is phenomenal.
-![VSCode](https//img.shields.io/badge/IDE-VSCode-blue)
+![Visual Studio Code](https//img.shields.io/badge/IDE-VSCode-blue)
