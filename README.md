@@ -1,7 +1,2 @@
-> A Pharmacy student
->
-> Trying to embrance new stuff.
-
-Working Time (CST):
-- 08:00-11:00
-- 20:00-24:00
+![light](assets/inspector-light.svg#gh-light-mode-only)
+![dark](assets/inspector-dark.svg#gh-dark-mode-only)

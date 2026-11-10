@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="479.125" viewBox="0 0 800 479.125">
+<title>Animated Element Inspector</title>
+<style>.pi-regions{opacity:.6}.pi-margin{fill:#edff64}.pi-border{fill:#444444}.pi-padding{fill:#6a5acd}.pi-content{fill:hsl(197 71% 73%)}.pi-guide{fill:none;stroke:hsl(200 100% 40%);stroke-width:1;stroke-dasharray:5 3}.pi-tip-bg{fill:hsl(214 13% 24%);stroke:rgba(255,255,255,.2);stroke-width:1}.pi-tip-arrow-border{fill:rgba(255,255,255,.2)}.pi-tip-arrow{fill:hsl(214 13% 24%)}.pi-tip{fill:hsl(216 33% 97%);font:11px message-box, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif}.pi-tip-tag{fill:hsl(285 100% 75%)}.pi-tip-id{fill:hsl(103 46% 54%)}.pi-tip-classes{fill:hsl(200 74% 57%)}.pi-tip-size{fill:hsl(210 30% 85%)}.pi-tip-grid{fill:#b1b1b3}.pi-tip-flex{fill:#b1b1b3}.pi-tip-sep{stroke:#5a6169;stroke-width:1}</style>
+<rect x="8" y="8" width="784" height="3" fill="#f0f6fc" stroke="none" stroke-width="1" opacity="1"/><rect x="8" y="176.75" width="181.844" height="1" fill="#f0f6fc" stroke="none" stroke-width="1" opacity="1"/><rect x="188.844" y="176.75" width="1" height="24" fill="#f0f6fc" stroke="none" stroke-width="1" opacity="1"/><rect x="8" y="199.75" width="181.844" height="1" fill="#f0f6fc" stroke="none" stroke-width="1" opacity="1"/><rect x="8" y="176.75" width="1" height="24" fill="#f0f6fc" stroke="none" stroke-width="1" opacity="1"/><rect x="196.844" y="176.75" width="80.813" height="1" fill="#f0f6fc" stroke="none" stroke-width="1" opacity="1"/><rect x="276.656" y="176.75" width="1" height="24" fill="#f0f6fc" stroke="none" stroke-width="1" opacity="1"/><rect x="196.844" y="199.75" width="80.813" height="1" fill="#f0f6fc" stroke="none" stroke-width="1" opacity="1"/><rect x="196.844" y="176.75" width="1" height="24" fill="#f0f6fc" stroke="none" stroke-width="1" opacity="1"/>
+<g id="inspector-e1" visibility="hidden">
+<g class="pi-regions"><rect class="pi-margin" x="8" y="8" width="784" height="321.938"/><rect class="pi-border" x="8" y="8" width="784" height="321.938"/><rect class="pi-padding" x="8" y="11" width="784" height="318.938"/><rect class="pi-content" x="8" y="13" width="784" height="298.938"/></g><path class="pi-guide" d="M0 8 H800 M0 329.938 H800 M8 0 V479.125 M792 0 V479.125"/>
+<animate attributeName="visibility" calcMode="discrete" values="visible;hidden;visible;hidden;visible;hidden;visible;hidden;visible;hidden;visible;hidden;visible;visible" keyTimes="0;0.005;0.131;0.149;0.454;0.457;0.542;0.548;0.881;0.886;0.901;0.903;0.923;1" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g id="inspector-e3" visibility="hidden">
+<g class="pi-regions"><rect class="pi-margin" x="8" y="45" width="784" height="131.75"/><rect class="pi-border" x="8" y="45" width="784" height="109.75"/><rect class="pi-padding" x="8" y="45" width="784" height="109.75"/><rect class="pi-content" x="8" y="45" width="784" height="109.75"/></g><path class="pi-guide" d="M0 45 H800 M0 154.75 H800 M8 0 V479.125 M792 0 V479.125"/>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden" keyTimes="0;0.005;0.131" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g id="inspector-e6" visibility="hidden">
+<g class="pi-regions"><rect class="pi-margin" x="8" y="176.75" width="181.844" height="24"/><rect class="pi-border" x="8" y="176.75" width="181.844" height="24"/><rect class="pi-padding" x="9" y="177.75" width="179.844" height="22"/><rect class="pi-content" x="18" y="182.75" width="161.844" height="12"/></g><path class="pi-guide" d="M0 176.75 H800 M0 200.75 H800 M8 0 V479.125 M189.844 0 V479.125"/>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden" keyTimes="0;0.149;0.252" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g id="inspector-e7" visibility="hidden">
+<g class="pi-regions"><rect class="pi-margin" x="196.844" y="176.75" width="80.813" height="24"/><rect class="pi-border" x="196.844" y="176.75" width="80.813" height="24"/><rect class="pi-padding" x="197.844" y="177.75" width="78.813" height="22"/><rect class="pi-content" x="206.844" y="182.75" width="60.813" height="12"/></g><path class="pi-guide" d="M0 176.75 H800 M0 200.75 H800 M196.844 0 V479.125 M277.656 0 V479.125"/>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden" keyTimes="0;0.252;0.346" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g id="inspector-e5" visibility="hidden">
+<g class="pi-regions"><rect class="pi-margin" x="8" y="176.75" width="784" height="24"/><rect class="pi-border" x="8" y="176.75" width="784" height="24"/><rect class="pi-padding" x="8" y="176.75" width="784" height="24"/><rect class="pi-content" x="8" y="176.75" width="784" height="24"/></g><path class="pi-guide" d="M0 176.75 H800 M0 200.75 H800 M8 0 V479.125 M792 0 V479.125"/>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden;visible;hidden" keyTimes="0;0.346;0.348;0.916;0.923" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g id="inspector-e8" visibility="hidden">
+<g class="pi-regions"><rect class="pi-margin" x="8" y="200.75" width="784" height="58"/><rect class="pi-border" x="8" y="200.75" width="784" height="46"/><rect class="pi-padding" x="8" y="200.75" width="784" height="46"/><rect class="pi-content" x="8" y="224.75" width="784" height="22"/></g><path class="pi-guide" d="M0 200.75 H800 M0 246.75 H800 M8 0 V479.125 M792 0 V479.125"/>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden;visible;hidden" keyTimes="0;0.348;0.454;0.903;0.916" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g id="inspector-e9" visibility="hidden">
+<g class="pi-regions"><rect class="pi-margin" x="8" y="258.75" width="784" height="53.188"/><rect class="pi-border" x="8" y="258.75" width="784" height="53.188"/><rect class="pi-padding" x="8" y="258.75" width="784" height="53.188"/><rect class="pi-content" x="8" y="258.75" width="784" height="53.188"/></g><path class="pi-guide" d="M0 258.75 H800 M0 311.938 H800 M8 0 V479.125 M792 0 V479.125"/>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden;visible;hidden" keyTimes="0;0.457;0.542;0.886;0.901" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g id="inspector-e11" visibility="hidden">
+<g class="pi-regions"><rect class="pi-margin" x="8" y="329.938" width="784" height="58"/><rect class="pi-border" x="8" y="329.938" width="784" height="46"/><rect class="pi-padding" x="8" y="329.938" width="784" height="46"/><rect class="pi-content" x="8" y="353.938" width="784" height="22"/></g><path class="pi-guide" d="M0 329.938 H800 M0 375.938 H800 M8 0 V479.125 M792 0 V479.125"/>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden;visible;hidden" keyTimes="0;0.548;0.633;0.868;0.881" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g id="inspector-e12" visibility="hidden">
+<g class="pi-regions"><rect class="pi-margin" x="8" y="387.938" width="784" height="53.188"/><rect class="pi-border" x="8" y="387.938" width="784" height="53.188"/><rect class="pi-padding" x="8" y="387.938" width="784" height="53.188"/><rect class="pi-content" x="8" y="387.938" width="784" height="53.188"/></g><path class="pi-guide" d="M0 387.938 H800 M0 441.125 H800 M8 0 V479.125 M792 0 V479.125"/>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden;visible;hidden" keyTimes="0;0.633;0.744;0.85;0.865" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g id="inspector-e14" visibility="hidden">
+<g class="pi-regions"><rect class="pi-margin" x="8" y="441.125" width="784" height="30"/><rect class="pi-border" x="8" y="441.125" width="784" height="30"/><rect class="pi-padding" x="8" y="441.125" width="784" height="30"/><rect class="pi-content" x="8" y="459.125" width="784" height="12"/></g><path class="pi-guide" d="M0 441.125 H800 M0 471.125 H800 M8 0 V479.125 M792 0 V479.125"/>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden;visible;hidden" keyTimes="0;0.744;0.762;0.845;0.85" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g id="inspector-e15" visibility="hidden">
+<g class="pi-regions"><rect class="pi-margin" x="8" y="459.125" width="290.531" height="12"/><rect class="pi-border" x="8" y="459.125" width="290.531" height="12"/><rect class="pi-padding" x="8" y="459.125" width="290.531" height="12"/><rect class="pi-content" x="8" y="459.125" width="290.531" height="12"/></g><path class="pi-guide" d="M0 459.125 H800 M0 471.125 H800 M8 0 V479.125 M298.531 0 V479.125"/>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden" keyTimes="0;0.762;0.845" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g id="inspector-e0" visibility="hidden">
+<g class="pi-regions"><rect class="pi-margin" x="0" y="0" width="800" height="479.125"/><rect class="pi-border" x="8" y="8" width="784" height="463.125"/><rect class="pi-padding" x="8" y="8" width="784" height="463.125"/><rect class="pi-content" x="8" y="8" width="784" height="463.125"/></g><path class="pi-guide" d="M0 8 H800 M0 471.125 H800 M8 0 V479.125 M792 0 V479.125"/>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden" keyTimes="0;0.865;0.868" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<text x="8" y="91" font-family="&quot;Times New Roman&quot;" font-size="56" font-weight="800" letter-spacing="-3.64px" fill="#f0f6fc" font-style="normal" opacity="1">
+      Exploring</text><text x="8" y="145.875" font-family="&quot;Times New Roman&quot;" font-size="56" font-weight="800" letter-spacing="-3.64px" fill="#f0f6fc" font-style="normal" opacity="1">
+      the intersections.</text><text x="18" y="192.75" font-family="&quot;Times New Roman&quot;" font-size="11" font-weight="400" letter-spacing="0.88px" fill="#f0f6fc" font-style="normal" opacity="1">
+      ARTIFICIAL INTELLIGENCE</text><text x="206.844" y="192.75" font-family="&quot;Times New Roman&quot;" font-size="11" font-weight="400" letter-spacing="0.88px" fill="#f0f6fc" font-style="normal" opacity="1">
+      MEDICINE</text><text x="8" y="241.75" font-family="&quot;Times New Roman&quot;" font-size="19" font-weight="700" letter-spacing="normal" fill="#f0f6fc" font-style="normal" opacity="1">
+    A little about me.</text><text x="8" y="275.75" font-family="&quot;Times New Roman&quot;" font-size="14" font-weight="400" letter-spacing="normal" fill="#f0f6fc" font-style="normal" opacity="0.82">
+    I take delight in tracing connections across diverse disciplines, and in shaping ideas into tools and projects of genuine, practical use.</text><text x="8" y="302.344" font-family="&quot;Times New Roman&quot;" font-size="14" font-weight="400" letter-spacing="normal" fill="#f0f6fc" font-style="normal" opacity="0.82">
+I am forever walking the ever-advancing frontier of learning.</text><text x="8" y="370.938" font-family="&quot;Times New Roman&quot;" font-size="19" font-weight="700" letter-spacing="normal" fill="#f0f6fc" font-style="normal" opacity="1">
+  How I think.</text><text x="8" y="404.938" font-family="&quot;Times New Roman&quot;" font-size="14" font-weight="400" letter-spacing="normal" fill="#f0f6fc" font-style="normal" opacity="0.82">
+  To understand the principles behind things.</text><text x="8" y="431.531" font-family="&quot;Times New Roman&quot;" font-size="14" font-weight="400" letter-spacing="normal" fill="#f0f6fc" font-style="normal" opacity="0.82">
+Stay curious, keep exploring, then take responsibility for artificials.</text><text x="8" y="469.125" font-family="&quot;Times New Roman&quot;" font-size="11" font-weight="700" letter-spacing="1.76px" fill="#f0f6fc" font-style="normal" opacity="1">
+    BUILD / EXPLORE / UNDERSTAND / SHARE</text>
+<g class="pi-tip" id="inspector-tip-e1" visibility="hidden">
+<rect class="pi-tip-bg" x="344" y="339.938" width="112" height="27" rx="3"/><path class="pi-tip-arrow-border" d="M392 339.938 L408 339.938 L400 331.938 z"/><path class="pi-tip-arrow" d="M393 339.938 L407 339.938 L400 332.938 z"/><text class="pi-tip-tag" x="350" y="357.938" textLength="15.191">div</text><line class="pi-tip-sep" x1="371.191" y1="345.938" x2="371.191" y2="360.938"/><text class="pi-tip-size" x="378.191" y="357.938" textLength="71.587">784 × 321.938</text>
+<animate attributeName="visibility" calcMode="discrete" values="visible;hidden;visible;hidden;visible;hidden;visible;hidden;visible;hidden;visible;hidden;visible;visible" keyTimes="0;0.005;0.131;0.149;0.454;0.457;0.542;0.548;0.881;0.886;0.901;0.903;0.923;1" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g class="pi-tip" id="inspector-tip-e3" visibility="hidden">
+<rect class="pi-tip-bg" x="347" y="10" width="106" height="27" rx="3"/><path class="pi-tip-arrow-border" d="M392 37 L408 37 L400 45 z"/><path class="pi-tip-arrow" d="M393 37 L407 37 L400 44 z"/><text class="pi-tip-tag" x="353" y="28" textLength="15.191">div</text><line class="pi-tip-sep" x1="374.191" y1="16" x2="374.191" y2="31"/><text class="pi-tip-size" x="381.191" y="28" textLength="65.295">784 × 109.75</text>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden" keyTimes="0;0.005;0.131" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g class="pi-tip" id="inspector-tip-e6" visibility="hidden">
+<rect class="pi-tip-bg" x="10.922" y="141.75" width="176" height="27" rx="3"/><path class="pi-tip-arrow-border" d="M90.922 168.75 L106.922 168.75 L98.922 176.75 z"/><path class="pi-tip-arrow" d="M91.922 168.75 L105.922 168.75 L98.922 175.75 z"/><text class="pi-tip-tag" x="16.922" y="159.75" textLength="25.003">span</text><line class="pi-tip-sep" x1="47.925" y1="147.75" x2="47.925" y2="162.75"/><text class="pi-tip-size" x="54.925" y="159.75" textLength="65.295">181.844 × 24</text><line class="pi-tip-sep" x1="126.22" y1="147.75" x2="126.22" y2="162.75"/><text class="pi-tip-flex" x="133.22" y="159.75" textLength="47.399">Flex Item</text>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden" keyTimes="0;0.149;0.252" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g class="pi-tip" id="inspector-tip-e7" visibility="hidden">
+<rect class="pi-tip-bg" x="149.25" y="141.75" width="176" height="27" rx="3"/><path class="pi-tip-arrow-border" d="M229.25 168.75 L245.25 168.75 L237.25 176.75 z"/><path class="pi-tip-arrow" d="M230.25 168.75 L244.25 168.75 L237.25 175.75 z"/><text class="pi-tip-tag" x="155.25" y="159.75" textLength="25.003">span</text><line class="pi-tip-sep" x1="186.253" y1="147.75" x2="186.253" y2="162.75"/><text class="pi-tip-size" x="193.253" y="159.75" textLength="65.295">80.8125 × 24</text><line class="pi-tip-sep" x1="264.548" y1="147.75" x2="264.548" y2="162.75"/><text class="pi-tip-flex" x="271.548" y="159.75" textLength="47.399">Flex Item</text>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden" keyTimes="0;0.252;0.346" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g class="pi-tip" id="inspector-tip-e5" visibility="hidden">
+<rect class="pi-tip-bg" x="314.5" y="141.75" width="171" height="27" rx="3"/><path class="pi-tip-arrow-border" d="M392 168.75 L408 168.75 L400 176.75 z"/><path class="pi-tip-arrow" d="M393 168.75 L407 168.75 L400 175.75 z"/><text class="pi-tip-tag" x="320.5" y="159.75" textLength="15.191">div</text><line class="pi-tip-sep" x1="341.691" y1="147.75" x2="341.691" y2="162.75"/><text class="pi-tip-size" x="348.691" y="159.75" textLength="43.472">784 × 24</text><line class="pi-tip-sep" x1="398.163" y1="147.75" x2="398.163" y2="162.75"/><text class="pi-tip-flex" x="405.163" y="159.75" textLength="74.139">Flex Container</text>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden;visible;hidden" keyTimes="0;0.346;0.348;0.916;0.923" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g class="pi-tip" id="inspector-tip-e8" visibility="hidden">
+<rect class="pi-tip-bg" x="358" y="165.75" width="84" height="27" rx="3"/><path class="pi-tip-arrow-border" d="M392 192.75 L408 192.75 L400 200.75 z"/><path class="pi-tip-arrow" d="M393 192.75 L407 192.75 L400 199.75 z"/><text class="pi-tip-tag" x="364" y="183.75" textLength="15.191">div</text><line class="pi-tip-sep" x1="385.191" y1="171.75" x2="385.191" y2="186.75"/><text class="pi-tip-size" x="392.191" y="183.75" textLength="43.472">784 × 46</text>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden;visible;hidden" keyTimes="0;0.348;0.454;0.903;0.916" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g class="pi-tip" id="inspector-tip-e9" visibility="hidden">
+<rect class="pi-tip-bg" x="344" y="223.75" width="112" height="27" rx="3"/><path class="pi-tip-arrow-border" d="M392 250.75 L408 250.75 L400 258.75 z"/><path class="pi-tip-arrow" d="M393 250.75 L407 250.75 L400 257.75 z"/><text class="pi-tip-tag" x="350" y="241.75" textLength="15.191">div</text><line class="pi-tip-sep" x1="371.191" y1="229.75" x2="371.191" y2="244.75"/><text class="pi-tip-size" x="378.191" y="241.75" textLength="71.587">784 × 53.1875</text>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden;visible;hidden" keyTimes="0;0.457;0.542;0.886;0.901" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g class="pi-tip" id="inspector-tip-e11" visibility="hidden">
+<rect class="pi-tip-bg" x="358" y="294.938" width="84" height="27" rx="3"/><path class="pi-tip-arrow-border" d="M392 321.938 L408 321.938 L400 329.938 z"/><path class="pi-tip-arrow" d="M393 321.938 L407 321.938 L400 328.938 z"/><text class="pi-tip-tag" x="364" y="312.938" textLength="15.191">div</text><line class="pi-tip-sep" x1="385.191" y1="300.938" x2="385.191" y2="315.938"/><text class="pi-tip-size" x="392.191" y="312.938" textLength="43.472">784 × 46</text>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden;visible;hidden" keyTimes="0;0.548;0.633;0.868;0.881" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g class="pi-tip" id="inspector-tip-e12" visibility="hidden">
+<rect class="pi-tip-bg" x="344" y="352.938" width="112" height="27" rx="3"/><path class="pi-tip-arrow-border" d="M392 379.938 L408 379.938 L400 387.938 z"/><path class="pi-tip-arrow" d="M393 379.938 L407 379.938 L400 386.938 z"/><text class="pi-tip-tag" x="350" y="370.938" textLength="15.191">div</text><line class="pi-tip-sep" x1="371.191" y1="358.938" x2="371.191" y2="373.938"/><text class="pi-tip-size" x="378.191" y="370.938" textLength="71.587">784 × 53.1875</text>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden;visible;hidden" keyTimes="0;0.633;0.744;0.85;0.865" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g class="pi-tip" id="inspector-tip-e14" visibility="hidden">
+<rect class="pi-tip-bg" x="314.5" y="406.125" width="171" height="27" rx="3"/><path class="pi-tip-arrow-border" d="M392 433.125 L408 433.125 L400 441.125 z"/><path class="pi-tip-arrow" d="M393 433.125 L407 433.125 L400 440.125 z"/><text class="pi-tip-tag" x="320.5" y="424.125" textLength="15.191">div</text><line class="pi-tip-sep" x1="341.691" y1="412.125" x2="341.691" y2="427.125"/><text class="pi-tip-size" x="348.691" y="424.125" textLength="43.472">784 × 30</text><line class="pi-tip-sep" x1="398.163" y1="412.125" x2="398.163" y2="427.125"/><text class="pi-tip-flex" x="405.163" y="424.125" textLength="74.139">Flex Container</text>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden;visible;hidden" keyTimes="0;0.744;0.762;0.845;0.85" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g class="pi-tip" id="inspector-tip-e15" visibility="hidden">
+<rect class="pi-tip-bg" x="70.266" y="424.125" width="166" height="27" rx="3"/><path class="pi-tip-arrow-border" d="M145.266 451.125 L161.266 451.125 L153.266 459.125 z"/><path class="pi-tip-arrow" d="M146.266 451.125 L160.266 451.125 L153.266 458.125 z"/><text class="pi-tip-tag" x="76.266" y="442.125" textLength="15.191">div</text><line class="pi-tip-sep" x1="97.457" y1="430.125" x2="97.457" y2="445.125"/><text class="pi-tip-size" x="104.457" y="442.125" textLength="65.295">290.531 × 12</text><line class="pi-tip-sep" x1="175.752" y1="430.125" x2="175.752" y2="445.125"/><text class="pi-tip-flex" x="182.752" y="442.125" textLength="47.399">Flex Item</text>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden" keyTimes="0;0.762;0.845" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g class="pi-tip" id="inspector-tip-e0" visibility="hidden">
+<rect class="pi-tip-bg" x="338.5" y="450.125" width="123" height="27" rx="3"/><path class="pi-tip-arrow-border" d="M392 450.125 L408 450.125 L400 442.125 z"/><path class="pi-tip-arrow" d="M393 450.125 L407 450.125 L400 443.125 z"/><text class="pi-tip-tag" x="344.5" y="468.125" textLength="25.795">body</text><line class="pi-tip-sep" x1="376.295" y1="456.125" x2="376.295" y2="471.125"/><text class="pi-tip-size" x="383.295" y="468.125" textLength="71.587">784 × 463.125</text>
+<animate attributeName="visibility" calcMode="discrete" values="hidden;visible;hidden" keyTimes="0;0.865;0.868" dur="13.211s" repeatCount="indefinite"/>
+</g>
+<g id="cursor">
+<animateTransform attributeName="transform" type="translate" values="400 168.96875;400 99.875;400 99.875;98.921875 188.75;98.921875 188.75;237.25 188.75;237.25 188.75;400 223.75;400 223.75;400 285.34375;400 285.34375;400 352.9375;400 352.9375;400 414.53125;400 414.53125;153.265625 465.125;153.265625 465.125;400 168.96875;400 168.96875" keyTimes="0;0.015;0.09;0.156;0.232;0.261;0.337;0.372;0.447;0.46;0.536;0.55;0.626;0.639;0.715;0.768;0.843;0.924;1" calcMode="linear" dur="13.211s" repeatCount="indefinite"/>
+<svg x="-17.50" y="-17.50" width="32" height="32" viewBox="0 0 32 32">
+  <filter id="filter7078" color-interpolation-filters="sRGB">
+    <feGaussianBlur id="feGaussianBlur7080" stdDeviation=".657"/>
+  </filter>
+  <linearGradient id="linearGradient4911">
+    <stop id="stop4913" offset="0"/>
+    <stop id="stop4915" offset="1" stop-opacity=".504348"/>
+  </linearGradient>
+  <linearGradient id="linearGradient13477" gradientUnits="userSpaceOnUse" x1="24" x2="18" xlink:href="#linearGradient4911" y1="17" y2="17"/>
+  <linearGradient id="linearGradient13479" gradientTransform="matrix(-1 0 0 1 685 -489.362)" gradientUnits="userSpaceOnUse" x1="674" x2="668" xlink:href="#linearGradient4911" y1="506.362" y2="506.362"/>
+  <linearGradient id="linearGradient13481" gradientTransform="matrix(0 1 -1 0 524.375 -649.987)" gradientUnits="userSpaceOnUse" x1="674" x2="668" xlink:href="#linearGradient4911" y1="506.362" y2="506.362"/>
+  <linearGradient id="linearGradient13483" gradientTransform="matrix(0 -1 -1 0 524.375 685.013)" gradientUnits="userSpaceOnUse" x1="674" x2="668" xlink:href="#linearGradient4911" y1="506.362" y2="506.362"/>
+  <path id="path4801-8-4-9-9-3-6" d="m17.5 7.25c-.458 0-.902.255-1.156.594s-.344.74-.344 1.156v7h3v-7c0-.417-.09-.818-.344-1.156-.253-.339-.698-.594-1.156-.594m-9.5 9.75c-.417 0-.818.09-1.156.344-.339.253-.594.698-.594 1.156s.255.903.594 1.156c.338.254.74.344 1.156.344h8v8c0 .417.09.818.344 1.156.253.339.698.594 1.156.594s.903-.255 1.156-.594c.254-.338.344-.74.344-1.156v-8h8c.417 0 .818-.09 1.156-.344.339-.253.594-.698.594-1.156s-.255-.902-.594-1.156-.74-.344-1.156-.344h-8v2h-3v-2z" filter="url(#filter7078)" opacity=".2"/>
+  <path id="path4801-8-4-9-9-3-1" d="m17.5 6.263c-.458 0-.902.255-1.156.594s-.344.74-.344 1.156v8h-8c-.417 0-.818.09-1.156.344-.339.253-.594.697-.594 1.156s.255.902.594 1.156.74.344 1.156.344h8v8c0 .416.09.818.344 1.156.253.338.698.594 1.156.594s.903-.256 1.156-.594c.254-.338.344-.74.344-1.156v-8h8c.417 0 .818-.09 1.156-.344.339-.254.594-.698.594-1.156 0-.459-.255-.903-.594-1.156-.338-.254-.74-.344-1.156-.344h-8v-8c0-.417-.09-.818-.344-1.156-.253-.339-.698-.594-1.156-.594m0 1c.25 0 .5.25.5.75v9h9c1 0 1 1 0 1h-9v9c0 1-1 1-1 0v-9h-9c-1 0-1-1 0-1h9v-9c0-.5.25-.75.5-.75" fill="#fff"/>
+  <path id="path4801-8-4-9-9-3" d="m18 17.014v1h9c1 0 1-1 0-1z" fill="url(#linearGradient13477)"/>
+  <path id="path4801-8-4-9-9-3-2" d="m8 17.014c-1 0-1 1 0 1h9v-1z" fill="url(#linearGradient13479)"/>
+  <path id="path4801-8-4-9-9-3-59" d="m17 18.014v9c0 1 1 1 1 0v-9z" fill="url(#linearGradient13481)"/>
+  <path id="path4801-8-4-9-9-3-2-5" d="m17.5 7.264c-.25 0-.5.25-.5.75v9h1v-9c0-.5-.25-.75-.5-.75" fill="url(#linearGradient13483)"/>
+  <path id="hotspot" d="m17.5-18.5h1v1h-1z" display="none" fill="#333" stroke-width="1.07568" transform="rotate(90)"/>
+</svg>
+</g>
+</svg>
